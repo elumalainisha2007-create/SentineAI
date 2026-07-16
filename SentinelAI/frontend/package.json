@@ -1,0 +1,31 @@
+{
+  "name": "sentinelai",
+  "version": "1.0.0",
+  "description": "AI-Powered Insider Threat Detection and Risk-Based Authentication System for Banking Environments",
+  "main": "src/main.jsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "recharts": "^2.0.0",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-react": "^7.0.0"
+  },
+  "keywords": [
+    "AI",
+    "Insider Threat",
+    "Authentication",
+    "Banking"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
